@@ -53,4 +53,8 @@ h1{
 
 hr{
   width:300px;
+  opacity: 50%;
+  height:2px;
+  background-color: lightgray;
+  border-radius: 4px;
 }
