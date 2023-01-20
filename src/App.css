@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  color: #5072A7;
+}
+
+.city {
+  font-weight: bold;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  align-items: inherit;
+  margin-right:60px
+}
+
+.pLeft{
+  margin: 0;
+}
+
+.forecast{
+  color: #5072A7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+hr{
+  width:300px;
+}
