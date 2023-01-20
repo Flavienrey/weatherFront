@@ -85,7 +85,7 @@ function App() {
 
             <hr/>
 
-            <p className="advice">{advice}</p>
+            <p className="advice">Conseil : {advice}</p>
         </div>
     );
 }
